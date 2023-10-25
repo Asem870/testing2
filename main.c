@@ -4,4 +4,5 @@ int main()
 	int q=10;
 	int e=10;
 	int s=10;
+	int y=10;
 }
